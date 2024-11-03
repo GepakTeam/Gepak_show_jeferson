@@ -9515,19 +9515,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kessy\\.nuget\\packages\\": {}
+    "C:\\Users\\augus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PI\\Asilo_TDD\\AsiloTestes\\AsiloTestes.csproj",
+      "projectUniqueName": "C:\\Users\\augus\\Desktop\\Projeto_atualizado\\Asilo_TDD\\AsiloTestes\\AsiloTestes.csproj",
       "projectName": "AsiloTestes",
-      "projectPath": "C:\\PI\\Asilo_TDD\\AsiloTestes\\AsiloTestes.csproj",
-      "packagesPath": "C:\\Users\\kessy\\.nuget\\packages\\",
-      "outputPath": "C:\\PI\\Asilo_TDD\\AsiloTestes\\obj\\",
+      "projectPath": "C:\\Users\\augus\\Desktop\\Projeto_atualizado\\Asilo_TDD\\AsiloTestes\\AsiloTestes.csproj",
+      "packagesPath": "C:\\Users\\augus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\augus\\Desktop\\Projeto_atualizado\\Asilo_TDD\\AsiloTestes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kessy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\augus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9542,8 +9542,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\PI\\Asilo_TDD\\Asilo_TDD\\Asilo.API.csproj": {
-              "projectPath": "C:\\PI\\Asilo_TDD\\Asilo_TDD\\Asilo.API.csproj"
+            "C:\\Users\\augus\\Desktop\\Projeto_atualizado\\Asilo_TDD\\Asilo_TDD\\Asilo.API.csproj": {
+              "projectPath": "C:\\Users\\augus\\Desktop\\Projeto_atualizado\\Asilo_TDD\\Asilo_TDD\\Asilo.API.csproj"
             }
           }
         }
@@ -9596,7 +9596,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

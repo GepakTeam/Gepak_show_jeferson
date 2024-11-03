@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsiloTestes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51bd496bf5b505ca243add0d402936af526a904e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsiloTestes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsiloTestes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
